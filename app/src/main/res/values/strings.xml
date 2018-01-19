@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="categories">Categories</string>
+    <string name="animal">Animal</string>
+    <string name="space">Space</string>
+    <string name="business">Business</string>
+    <string name="country">Country</string>
+    <string name="healthy">Healthy</string>
+    <string name="human">Human</string>
+    <string name="nature">Nature</string>
+    <string name="weather">Weather</string>
+
+    <string name="communicate">Communicate</string>
+    <string name="about_us">About us</string>
+    <string name="share">Share</string>
+
+    <string name="open">Open Navigation</string>
+    <string name="close">Close Navigation</string>
+</resources>
